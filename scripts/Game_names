@@ -1,0 +1,19 @@
+
+Beginner
+* Number Guessing Game — Computer picks a number, and the player guesses it.
+* Rock, Paper, Scissors — Play against the computer.
+* Quiz Game — Multiple-choice questions with a score.
+* Dice Rolling Game — Roll dice and compete against the computer.
+* Hangman — Guess letters to figure out a hidden word.
+🟡 Intermediate
+* Tic-Tac-Toe — Two players or player vs. computer.
+* Text Adventure — Explore rooms, collect items, and make choices.
+* Snake — Use pygame to move around and eat food.
+* Space Shooter — Control a spaceship and shoot incoming enemies.
+* Pong — Two paddles, a ball, and a score counter.
+🔴 A little more challenging
+* Mini RPG — Fight monsters, gain XP, collect weapons, and level up.
+* Dungeon Escape — Navigate a randomly generated dungeon while avoiding enemies.
+* Tower Defense — Place towers to stop enemies from reaching your base.
+* Flappy Bird clone — Control a character through obstacles.
+* Platformer — Jump across platforms and avoid enemies.
